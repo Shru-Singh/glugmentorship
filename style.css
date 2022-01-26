@@ -187,3 +187,11 @@ body {
   font-weight: 300;
   line-height: 1.4;
 }
+
+
+.main-screen .categories {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
